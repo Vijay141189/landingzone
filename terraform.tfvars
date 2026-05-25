@@ -1,0 +1,1 @@
+rg_name = { rg1development= "eastus", rg2production= "westus" }
